@@ -31,11 +31,11 @@ This document outlines the step-by-step process of setting up my tech environmen
 
 **Step 3:** Verifying the installation by opening a terminal (Command Prompt):
 
-- I opened a command prompt terminal to confirmed my installing by typing
+- I opened a command prompt terminal to confirmed my installation by executing the cammand "*git --version*" as shown on the screenshot below.
 ```bash
 git --version
 ````
-![command-prompt img](./img/git-command-%20prompt.jpg)
+![Git installation conformation screenshort](./img/git-command-%20prompt.jpg)
 
 
 ---
@@ -56,7 +56,7 @@ git --version
 
 - I lunched VScode through the start menu.Since the insallation was successful, see below what it look like below. 
 
-![VScode software](/img/VScode%20software.png)
+![VScode welcome Screenshort](/img/VScode%20software.png)
 
 ---
 
@@ -78,7 +78,7 @@ git --version
 
 - Since the installation was successful, kindly see below what it look like.
 
-![virtualbox-installed](./img/Virtual-box-webpage.jpg)
+![Oracle virtualbox welcome screenshort](./img/Virtual-box-webpage.jpg)
 
 ___
 
@@ -112,7 +112,7 @@ ___
 - I follow through the on screen prompt, configuring the language,user name,password and keyboard etc. to complete the ubuntu installation.
 - Once installation was completed, i login to my ubuntu virtual machine as seen below.
 
-![ubuntu-installed](./img/ubuntu%20.png)
+![Ubuntu login prompt screenshort](./img/ubuntu%20login%20prompt.png)
 
 
 
@@ -138,7 +138,7 @@ ___
 
 
 - To confirm account creation, i entered my email and password.
-![Git account confirmation](./img/Github%20account%20creation%20successful2.jpg)
+![Github account dashboard](./img/Github%20account%20creation%20successful2.jpg)
 
 > ### Amazon Web Services (AWS) Account Creation
 
